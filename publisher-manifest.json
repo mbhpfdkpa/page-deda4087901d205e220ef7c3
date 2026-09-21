@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "55db551affb77effe5194427",
+  "owner": "mbhpfdkpa",
+  "repo": "page-deda4087901d205e220ef7c3",
+  "title": "魔戒",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "deda4087901d205e220ef7c3",
+      "a": "魔戒",
+      "b": "2027最新官网",
+      "entity": "魔戒",
+      "brand": "魔戒",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "606ce97c33450c683b7608bff9342d2052f3f2355309644a6ff9a5604754edb7",
+      "content": {
+        "primary_entity": "魔戒",
+        "keyword1": "魔戒",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选客户端，再导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端设备选择",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用魔戒",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开，帮助不同设备数量的用户找到合适方案。基础版适合单人日常浏览，旗舰版提供 300GB 流量与 5 台设备支持，团队版面向多设备高流量场景。按客户端文档完成订阅导入后即可使用。",
+          "AI_FEATURES_INTRO": "从流量、设备数量和订阅周期三个角度挑选。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "每月 100GB 到 1000GB 流量覆盖个人到团队使用，按日常用量选择。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，按实际设备数量订阅。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付 ¥150，旗舰版年付 ¥350。",
+          "AI_FEATURE_TITLE_1": "流量档位",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到配置订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "魔戒提供基础版、旗舰版与团队版三档订阅，覆盖从个人到团队的不同设备数量与流量需求。月付与年付两种周期可选，按客户端文档完成订阅配置后即可使用。",
+          "AI_HERO_SUBTITLE": "魔戒订阅套餐与设备配置",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数量选择",
+          "AI_HIGHLIGHT_2": "月付年付灵活切换",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线优化",
+          "AI_PLANS_INTRO": "对比三档套餐的流量、设备数量与价格，选择适合的方案。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与设备数量，在基础版、旗舰版、团队版中选定套餐。",
+          "AI_STEP_TEXT_2": "阅读套餐适配说明，确认设备系统与客户端类型是否匹配。",
+          "AI_STEP_TEXT_3": "依照所用客户端文档导入订阅，完成配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "魔戒套餐选择",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，可按日常使用数量选择。",
+          "AI_FAQ_ANSWER_2": "月流量指当月可用的数据额度，超出后速度会降低，建议按使用场景选择合适档位。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算，基础版年付150元，旗舰版年付350元，团队版年付850元。",
+          "AI_FAQ_ANSWER_4": "可在客户端中导入订阅链接，常见客户端如Clash、Shadowrocket、v2rayN均支持手动添加。",
+          "AI_FAQ_ANSWER_5": "适合。IPLC专线对游戏延迟有优化，团队版还可定制路由，满足多人共享。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个账号能同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "套餐里的月流量如何理解？",
+          "AI_FAQ_QUESTION_3": "年付和月付怎么选？",
+          "AI_FAQ_QUESTION_4": "订阅链接怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "魔戒适合游戏加速吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "knulgbm.cn",
+    "host": "knulgbm.cn"
+  },
+  "file_hashes": {
+    "index.html": "770cf1604b10e00cc158994750bcfc0d3fcb26ea9b90753e9a7e93737468a053",
+    "sitemap.xml": "eb7e43c82a9c49ff698dfe8499612eb6ac2dbbe9217f584b0ccb7714fbb60c95",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9e06e37ade34ccfaf9bec12a812b516924bb7bed0a4d1b895ba2ac289b52ddbc",
+    "robots.txt": "6b70660d32edaf1d60a6fb91d0646237b166d1f46bc0a15783d37996a34da9ca",
+    "64060e298c65b1aedbf5507bd20dee1b.txt": "8f586916375a316a5c33ab70cd29c04d6e49537a3e228906e7a2e9dee8a35c23"
+  },
+  "revision": "af49fe4298844c3839037ce0e90c561c7716b5418075d0b88d2b214abfd6e315"
+}
